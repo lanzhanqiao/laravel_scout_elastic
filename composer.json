@@ -32,5 +32,7 @@
                 "ScoutEngines\\Elasticsearch\\ElasticsearchProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
